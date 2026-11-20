@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dados</string>
+
+    <string name="numero_objetivo">Número a acertar (3-18)</string>
+    <string name="hint_numero">3-18</string>
+    <string name="error_numero">Introduce un número entre 3 y 18</string>
+    <string name="resultado_inicial">0</string>
+
+    <string name="descripcion_kubilete">Tirar los dados</string>
+    <string name="descripcion_dado">Dado</string>
+
+    <string name="acierto_titulo">¡Número acertado!</string>
+    <string name="acierto_mensaje">Has introducido el %1$d y la suma de los dados ha sido %2$d.</string>
+    <string name="fallo_mensaje">No se acertó. La última suma fue %1$d.</string>
+    <string name="aceptar">Aceptar</string>
+</resources>
